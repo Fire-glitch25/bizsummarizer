@@ -1,6 +1,7 @@
 streamlit
-transformers
+transformers==4.40.2
+torch==2.3.0
 fpdf
 streamlit-lottie
 requests
-torch
+
